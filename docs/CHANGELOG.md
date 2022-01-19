@@ -7,6 +7,10 @@ title: Changelog
 
 ## main
 
+* Place all generator options under `config.generate` namespace,
+
+    *Simon Fish*
+
 * Small improvements to collection iteration docs.
 
     *Brian O'Rourke*
