@@ -7,7 +7,7 @@ title: Changelog
 
 ## main
 
-* Place all generator options under `config.generate` namespace,
+* Place all generator options under `config.generate` namespace.
 
     *Simon Fish*
 
